@@ -15,7 +15,6 @@ Comic Creator App using React.Js
 ![Screenshot (614)](https://github.com/Akanksha-Maurya/Comic-App/assets/97236755/74d84cc3-d12d-4cd7-aea4-9beb8d3da151)
 
 ## After inputting text into a form
-
 ![Screenshot (624)](https://github.com/Akanksha-Maurya/Comic-App/assets/97236755/e7653163-98df-4b3e-876a-7e97f44e914e)
 
 
