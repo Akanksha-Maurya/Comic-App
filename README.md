@@ -21,5 +21,3 @@ Comic Creator App using React.Js
 
 ![Screenshot (626)](https://github.com/Akanksha-Maurya/Comic-App/assets/97236755/073aa0c5-1574-436f-9e61-32879750cedb)
 
-![Screenshot (627)](https://github.com/Akanksha-Maurya/Comic-App/assets/97236755/80371efa-3ada-4b60-b184-cf39b467c547)
-
